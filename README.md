@@ -1,2 +1,4 @@
 # RPi-Audio-Hub
-Bluetooth audio routing hub for Raspberry Pi: Connect analog audio sources to Bluetooth speakers with an easy GUI for device selection and volume control.
+
+Turn your Raspberry Pi into a smart Bluetooth audio bridge  
+Analog input → Bluetooth speaker with simple GUI control
