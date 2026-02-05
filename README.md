@@ -38,12 +38,12 @@ Future plans: graphical interface (Tkinter), auto-start on boot, support for oth
 git clone https://github.com/yourusername/RPi-Audio-Hub.git
 cd RPi-Audio-Hub
 ```
-Make the setup script executable and run it
+2. Make the setup script executable and run it
 ```bash
 Bashchmod +x setup.sh
 sudo ./setup.sh
 ```
-Run the control program
+3. Run the control program
 ```bash
 Bashpython3 rpi-audio-hub-cli.py
 Follow the menu:
