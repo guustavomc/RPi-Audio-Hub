@@ -45,9 +45,10 @@ sudo ./setup.sh
 ```
 3. Run the control program
 ```bash
-Bashpython3 rpi-audio-hub-cli.py
-Follow the menu:
+python3 rpi-audio-hub-cli.py
 ```
+
+Follow the menu:
 
 Scan → connect to your speaker → load loopback → set volumes
 
