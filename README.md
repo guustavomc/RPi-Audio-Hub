@@ -35,14 +35,15 @@ Future plans: graphical interface (Tkinter), auto-start on boot, support for oth
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/RPi-Audio-Hub.git
+git clone https://github.com/guustavomc/RPi-Audio-Hub.git
 cd RPi-Audio-Hub
 ```
 2. Make the setup script executable and run it
 ```bash
-Bashchmod +x setup.sh
+chmod +x setup.sh
 sudo ./setup.sh
 ```
+
 3. Run the control program
 ```bash
 python3 rpi-audio-hub-cli.py
@@ -66,7 +67,7 @@ echo "load-module module-loopback latency_msec=1" >> ~/.config/pulse/default.pa
 ```
 ## Usage
 ```bash
-Bashpython3 rpi-audio-hub-cli.py
+python3 rpi-audio-hub-cli.py
 ```
 Main menu options:
 
